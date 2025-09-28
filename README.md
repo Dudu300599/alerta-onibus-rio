@@ -228,7 +228,7 @@ alerta-onibus-rio/
 Adicione imagens:  
 
 ```md
-![Tela principal](https://github.com/Dudu300599/alerta-onibus-rio/blob/main/docs/img01.png?raw=true)
+![Tela principal](https://raw.githubusercontent.com/Dudu300599/alerta-onibus-rio/refs/heads/main/docs/img01.png)
 
 ![Formulário de alerta](docs/img02.png?raw=true)
 
