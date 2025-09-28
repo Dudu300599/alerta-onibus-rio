@@ -227,7 +227,7 @@ alerta-onibus-rio/
 ## 📸 Screenshots
 Adicione imagens:  
 
-```md
+
 ![Tela principal](https://raw.githubusercontent.com/Dudu300599/alerta-onibus-rio/refs/heads/main/docs/img01.png)
 
 ![Formulário de alerta](docs/img02.png?raw=true)
@@ -235,7 +235,7 @@ Adicione imagens:
 ![Cadastro Finalizado](docs/img03.png)
 
 ![Email Enviado](img04.png)
-```
+
 
 ---
 
