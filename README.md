@@ -227,7 +227,7 @@ alerta-onibus-rio/
 ## 📸 Screenshots
 Adicione imagens:  
 
-```md
+```markdown
 ![Tela principal](docs/img01.png)
 ![Formulário de alerta](docs/img02.png)
 ![Cadastro Finalizado](docs/img03.png)
