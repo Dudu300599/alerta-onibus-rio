@@ -234,7 +234,7 @@ Adicione imagens:
 
 ![Cadastro Finalizado](docs/img03.png)
 
-![Email Enviado](docs/img04.png)
+![Email Enviado](img04.png)
 ```
 
 ---
