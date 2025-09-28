@@ -230,7 +230,7 @@ Adicione imagens:
 ```md
 ![Tela principal](https://github.com/Dudu300599/alerta-onibus-rio/blob/main/docs/img01.png?raw=true)
 
-![Formulário de alerta](docs/img02.png)
+![Formulário de alerta](docs/img02.png?raw=true)
 
 ![Cadastro Finalizado](docs/img03.png)
 
