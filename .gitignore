@@ -1,0 +1,29 @@
+# Ficheiro de Exceções do Git para o Projeto Alerta de Ônibus
+
+# --- SEGURANÇA ---
+# Ignorar o ficheiro com as credenciais de e-mail e outras senhas.
+# ESTA É A LINHA MAIS IMPORTANTE!
+.env
+backend/.env
+
+# --- PRIVACIDADE ---
+# Ignorar ficheiros JSON que guardam dados de utilizadores (alertas e logs).
+*.json
+
+# --- AMBIENTE PYTHON ---
+# Ignorar a pasta do ambiente virtual, que é específica para cada máquina.
+venv/
+backend/venv/
+
+# Ignorar ficheiros de cache gerados pelo Python.
+__pycache__/
+backend/__pycache__/
+
+# --- CELERY ---
+# Ignorar o ficheiro de agendamento que o Celery Beat cria.
+celerybeat-schedule
+
+# --- AMBIENTE NODE.JS / FRONTEND ---
+# Ignorar a pasta de dependências do Node.js, que é muito grande e instalada via `npm install`.
+frontend/node_modules
+node_modules/
