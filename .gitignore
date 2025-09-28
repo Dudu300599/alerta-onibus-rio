@@ -2,7 +2,6 @@
 
 # --- SEGURANÇA ---
 # Ignorar o ficheiro com as credenciais de e-mail e outras senhas.
-# ESTA É A LINHA MAIS IMPORTANTE!
 .env
 backend/.env
 

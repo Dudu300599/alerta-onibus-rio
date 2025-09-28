@@ -58,7 +58,7 @@ def enviar_email_alerta(alerta: Alerta, dados_onibus: dict, distancia_km: float)
         logger.error("Credenciais de e-mail não configuradas no ficheiro .env. O e-mail não será enviado.")
         return
 
-    assunto = f"Alerta de Ônibus: Linha {alerta.linha} está a chegar!"
+    assunto = f"Alerta de Ônibus: Linha {alerta.linha} está chegando!"
     corpo = f"""
     Olá!
 

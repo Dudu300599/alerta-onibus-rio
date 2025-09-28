@@ -152,8 +152,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 Windows (se o projeto usa `eventlet`):
 ```powershell
 cd backend
-.
-env\Scripts ctivate
+.\venv\Scripts\activate
 celery -A tasks.celery_app worker -P eventlet -l info
 ```
 
@@ -229,14 +228,15 @@ alerta-onibus-rio/
 Adicione imagens:  
 
 ```md
-![Tela principal](docs/01-tela-principal.png)
-![Formulário de alerta](docs/02-form-criacao-alerta.png)
+![Tela principal](docs/img01.png)
+![Formulário de alerta](docs/img02.png)
+![Cadastro Finalizado](docs/img03.png)
+![Email Enviado](docs/img04.png)
 ```
 
 ---
 
 ## 🎥 Vídeo de Overview
-Adicione o link (YouTube / Loom).  
-Exemplo: `https://link-do-video`
+`https://link-do-video`
 
 ---
