@@ -66,8 +66,7 @@ cd backend
 Windows:
 ```powershell
 python -m venv venv
-.
-env\Scripts ctivate
+.\venv\Scripts\activate  
 ```
 
 Linux / macOS:
