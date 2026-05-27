@@ -234,9 +234,3 @@ alerta-onibus-rio/
 
 ![Email Enviado](docs/img04.png)
 
-
----
-
-## 🎥 Vídeo de Overview
-https://www.loom.com/share/e4c48fa1afb04acb98d349708d5d5205?sid=8afebbe8-28df-4461-9d9c-d7ff4004e01f
----
